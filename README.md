@@ -1,3 +1,6 @@
+> ![IMPORTANT]
+> This project is active, but has been moved to [`cadojo/EphemerisSources.jl`](https://github.com/cadojo/EphemerisSources.jl).
+
 [![Tests](https://github.com/cadojo/HorizonsEphemeris.jl/workflows/UnitTests/badge.svg)](https://github.com/cadojo/HorizonsEphemeris.jl/actions?query=workflow%3AUnitTests)
 [![Docs](https://github.com/cadojo/HorizonsEphemeris.jl/workflows/Documentation/badge.svg)](https://cadojo.github.io/HorizonsEphemeris.jl)
 [![SciML Code Style](https://img.shields.io/static/v1?label=Style&message=SciML&color=9668e2&labelColor=3E474F)](https://github.com/SciML/SciMLStyle)
